@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.algolia:instantsearch-insights-android:2.11.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/694462abd5f880e8a775cf199443d632/transformed/instantsearch-insights-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/694462abd5f880e8a775cf199443d632/transformed/instantsearch-insights-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia/instantsearch-insights-android/2.11.1/cf383035967218ffa1b10977cc40a4e7ebb66e00/instantsearch-insights-android-2.11.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia/instantsearch-insights-android/2.11.1/54001d0239f779a5229c2ed827ecbb8903dee365/instantsearch-insights-android-2.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

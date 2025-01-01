@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.algolia:instantsearch-core-jvm:2.11.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.algolia" artifactId="instantsearch-core-jvm" version="2.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia/instantsearch-core-jvm/2.11.1/9838bd494c9c64734cbf2885a381637af6dbf6b4/instantsearch-core-jvm-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia/instantsearch-core-jvm/2.11.1/9838bd494c9c64734cbf2885a381637af6dbf6b4/instantsearch-core-jvm-2.11.1.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia/instantsearch-core-jvm/2.11.1/9838bd494c9c64734cbf2885a381637af6dbf6b4/instantsearch-core-jvm-2.11.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

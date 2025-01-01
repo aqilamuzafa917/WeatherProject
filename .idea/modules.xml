@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherProject.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherProject.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
