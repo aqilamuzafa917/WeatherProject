@@ -96,9 +96,13 @@
    ```properties
    OPENWEATHER_KEY=your_openweather_key
    ```
-5. Buat akun gratis di [Algolia](https://www.algolia.com/) dan dapatkan API Key, App ID, serta nama index. Tambahkan ke file `local.properties`:
+5. Buat akun gratis di [Algolia](https://www.algolia.com/)
+6. Generate a search API key, save the ID of the app you have created, and then create an index under that app. You will need to save the index name to set up the search functionality in this app
+
+7. Selanjutnya, populate the index with the following <a href="https://drive.google.com/file/d/1ImLwmPhV83evkeQs1zu2iR8N6k7bQ-Je/view?usp=sharing">records</a>
+8. dan dapatkan API Key, App ID, serta nama index. Tambahkan ke file `local.properties`:
    ```properties
-   ALGOLIA_KEY=your_algolia_key
+   ALGOLIA_KEY=your_algolia_key (Write API Key)
    ALGOLIA_APP_ID=your_app_id
    ALGOLIA_INDEX_NAME=your_index_name
    ```
@@ -112,12 +116,3 @@ Proyek ini didistribusikan di bawah lisensi GPL-3.0. Lihat file `LICENSE` untuk 
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
-<!-- CONTACT -->
-## Kontak
-
-Aqila Muzafa  
-Email: aqilamuzafa@gmail.com  
-
-Project Link: [https://github.com/aqilamuzafa917/WeatherProject](https://github.com/aqilamuzafa917/WeatherProject)
-
-<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
