@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aqilamuzafa917/WeatherProject">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+ 
   </a>
 
 <h3 align="center">WeatherProject</h3>
@@ -75,16 +75,12 @@
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
-### Gambar
-
-<img src="images/english_light.jpg" alt="Tampilan Cahaya" width="800">
-<img src="images/english_dark.jpg" alt="Tampilan Gelap" width="800">
 
 <!-- GETTING STARTED -->
 ## Memulai
 
 ### Prasyarat
-
+* Gunakan OpenJDK 17  [OpenJDK 17](https://aka.ms/download-jdk/microsoft-jdk-17.0.13-windows-x64.msi)
 * Android Studio
 * API key dari OpenWeatherMap dan Algolia
 
